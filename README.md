@@ -44,4 +44,4 @@ The landing page is created using HTML and CSS, incorporating video and imagery 
 - Include additional features and animations to enhance user engagement.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+@ LICENSE
