@@ -1,4 +1,6 @@
-# Excursion - Landing Page 🌍📱
+# Excursion - Landing Page 🌍📱 
+
+   A simple HTML & CSS project : https://frankkwabenaaboagye.github.io/excursion/
 
 ## Project Overview
 
